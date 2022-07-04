@@ -7,3 +7,4 @@ Shanawaz->Changed to feature_1.2.
 Shanawaz->Changed to feature_1.3
 Noor->Changed to feature_1.7_modified.
 Shanawaz->Changed to feature_1.6
+Shanawaz->Changed to feature_1.8
